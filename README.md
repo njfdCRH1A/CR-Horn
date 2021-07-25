@@ -7,6 +7,10 @@ CRH380A
 
 CRH1A-A
 
+CRH1A
+
 CRH2A
 
 HXD3D
+
+HXD1C(两种)
