@@ -3,12 +3,12 @@
 
 现在有的：
 
-CRH380A
+CRH380A  horn_CRH380A.wav
 
-CRH1A-A
+CRH1A-A  horn_CRH1A-A.wav
 
-CRH2A
+CRH2A  horn_CRH2A.wav
 
-HXD3D
+HXD3D  horn_HXD3D.wav
 
-HXD1C(两种)
+HXD1C(两种)  Hhorn_HXD1C(1).wav 与 horn_HXD1C(2).wav
