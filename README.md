@@ -11,4 +11,4 @@ CRH2A  horn_CRH2A.wav
 
 HXD3D  horn_HXD3D.wav
 
-HXD1C(两种)  Hhorn_HXD1C(1).wav 与 horn_HXD1C(2).wav
+HXD1C(两种)  horn_HXD1C(1).wav 与 horn_HXD1C(2).wav
