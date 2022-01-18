@@ -1,6 +1,8 @@
 # CR-Horn
 中国铁路各列车鸣笛素材
 
+可以作为BVE素材自由使用
+
 现在有的：
 
 CRH380A  horn_CRH380A.wav
