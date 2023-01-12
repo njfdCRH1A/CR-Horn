@@ -15,4 +15,6 @@ HXD3D  horn_HXD3D.wav
 
 HXD1C(两种)  horn_HXD1C(1).wav 与 horn_HXD1C(2).wav
 
-（2022/1/18更新）HXD3C(两种)  horn_HXD3C_a.wav 与 horn_HXD3C_b.wav
+HXD3C(两种)  horn_HXD3C_a.wav 与 horn_HXD3C_b.wav
+
+（2022/8/31更新）福州地铁6号线 horn_Fuzhou Metro Line6.wav
